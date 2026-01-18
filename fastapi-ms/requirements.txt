@@ -1,0 +1,5 @@
+fastapi
+pydantic[email]
+uvicorn
+sqlalchemy
+aiosqlite
